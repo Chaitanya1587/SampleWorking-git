@@ -4,6 +4,14 @@ company : Gammastack
 <<<<<<< HEAD
 
 Im adding this Line
+<<<<<<< HEAD
 in feature 1 i aSdding this Line
 in feature 1 i adding second  Line
 in main
+=======
+
+creating a new avathar for this user
+im adding in branch main 
+im adding second line in main
+three
+>>>>>>> feature1
