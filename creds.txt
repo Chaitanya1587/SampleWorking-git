@@ -2,3 +2,6 @@ user name  :chaitu
 pass :12345
 company : Gammastack
 Im adding this Line
+
+creating a new avathar for this user
+im adding in branch main 
