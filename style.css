@@ -1,0 +1,28 @@
+body{
+    font-family : Verdana;
+    font-size:  2em;
+}
+#label1{
+    text-align: center;
+    font-size: 10em;
+    display: block;
+    font-family: Helvetica;
+}
+#btnContainer{
+    
+    text-align: center;
+
+}
+.buttons{
+    padding:1% 8%;
+    color: white;
+    font-size: 1.5em;
+    font-family: Times New Roman;
+    background-color: rgb(142, 142, 231); 
+    border-radius: 5px;  
+    cursor: pointer; 
+}
+
+.buttons:hover{
+    background-color: blue;
+}
